@@ -1,0 +1,5 @@
+com\calculadora\App.class
+com\operation\Operation.class
+com\interfaces\OperationInterface.class
+com\account\Account.class
+com\interfaces\AccountInterface.class
